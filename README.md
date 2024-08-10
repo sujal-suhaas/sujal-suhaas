@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am from Hyderabad, Telangana.
+I am from Hyderabad, Telangana, India.
 
 I am currently pursuing BSc. Data Science and Applications from IIT Madras.
 
