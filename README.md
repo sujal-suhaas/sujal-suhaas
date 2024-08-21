@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-  I am from Hyderabad, Telangana, India.
-  
-  I am currently pursuing BSc. Data Science and Applications from IIT Madras.
-  
-  I like to learn new things about technology 💻 and AI 🤖.
+I am from Hyderabad, Telangana, India.
+
+I am currently pursuing BSc. Data Science and Applications from IIT Madras.
+
+I like to learn new things about technology 💻 and AI 🤖.
 
 ## 🛠 Skills
 I can make websites using 
